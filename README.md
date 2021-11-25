@@ -141,9 +141,9 @@
 
 ### ✨ESTADISTICAS DE GITHUB
 <hr/>
-
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juans072&show_icons=true&theme=radical&hide=contribs,prs&theme=buefy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juans072&layout=compact)](https://github.com/juans072/github-readme-stats)
-
+-->
 
 
 <br>
