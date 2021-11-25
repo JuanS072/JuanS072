@@ -68,12 +68,12 @@
   </tr>
     </td>
   <tr align="center">
-    <td align="center" width="96">
+   <!-- <td align="center" width="96">
       <a href="#">
        <img src="./img/vercel.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Vercel
-    </td>
+    </td>-->
     <td align="center"  width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
@@ -92,24 +92,24 @@
       </a>
       <br>ExpressJS
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
-    </td> -->
+    </td> 
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="48" height="48" alt="Postgresql" />
       </a>
       <br>Postgresql
     </td>
-    <!-- <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
-    </td> -->
+    </td> 
     <td align="center"  width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" width="48" height="48" alt="Github" />
@@ -158,7 +158,7 @@
   </p>  
   <p >
   <!-- <td align="center" width="96"> -->
-    <a href="juancarlossequeira07@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="./img/Gmail.svg"></a> 
+    <a href="maito:juancarlossequeira07@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="./img/Gmail.svg"></a> 
   <!-- </td> -->
   <!-- </table> -->
 </p>  
