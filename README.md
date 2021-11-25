@@ -142,8 +142,9 @@
 ### ✨ESTADISTICAS DE GITHUB
 <hr/>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juans072&show_icons=true&theme=radical&hide=contribs,prs&theme=buefy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juans072&layout=compact)](https://github.com/juans072/github-readme-stats)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanS072&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanS072&layout=compact&theme=buefy)](https://github.com/juanS072/github-readme-stats)
+
 
 <br>
 
