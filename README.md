@@ -156,12 +156,12 @@
 <p >
 <!-- <table ="center"> -->
   <!-- <td align="center" width="96"> -->
-    <a href="https://www.linkedin.com/in/juansequeira/" target="_blank"><img alt="LinkedIn" width="25px" src="./img/Linkedin.svg" align="center"></a>
+    <a href="https://www.linkedin.com/in/juansequeira/" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" align="center"></a>
   <!-- </td> -->
   </p>  
   <p >
   <!-- <td align="center" width="96"> -->
-    <a href="maito:juancarlossequeira07@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="./img/Gmail.svg"></a> 
+    <a href="juancarlossequeira07@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://image.flaticon.com/icons/png/128/281/281786.png"></a> 
   <!-- </td> -->
   <!-- </table> -->
 </p>  
